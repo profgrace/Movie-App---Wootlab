@@ -7,7 +7,6 @@ During my design process, I had to put myself in the shoes of the user and also 
 Here is a link to the app on Figma:
 
 - Wireframes: https://www.figma.com/proto/EGtkDIDyaBj9zXDVSxTQWL/Wootlab?node-id=1%3A2&scaling=scale-down
-
 - High-Fidelity Prototype: https://www.figma.com/proto/EGtkDIDyaBj9zXDVSxTQWL/Wootlab?node-id=4%3A3124&scaling=min-zoom
 
 As result of my processes which included paper sketches (can be seen in this repository), wireframes (Figma link above), high-fidelity designs (also in Figma link above) and then prototyping, I was not able to complete the full app's requirements (such as the user being able to watch embedded YouTube videos). In addition, I failed to create an exit strategy for the user through signing out.
